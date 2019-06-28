@@ -26,12 +26,12 @@ body {
   height: 1.5em;
 }
 
-/*.lightbulb-container {
+.lightbulb-container {
   max-width: 50%;
   margin: auto;
 }
 
-input[type=checkbox] {
+/*input[type=checkbox] {
   opacity: 0; /* Hides the checkbox */
 /*}
 

@@ -22,13 +22,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-
-.lightbulb-container {
+/*.lightbulb-container {
   max-width: 50%;
   margin: auto;
 }

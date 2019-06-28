@@ -3,6 +3,14 @@ html, body {
   margin: 0;
 }
 
+body {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  align-content: center;
+  background-image: linear-gradient(#ffffff, #ffffff);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,13 +35,6 @@ html, body {
 }
 
 
-body {
-  display: flex;
-  flex-flow: column wrap;
-  align-items: center;
-  align-content: center;
-  background-image: linear-gradient(#ffffff, #ffffff);
-}
 
 .lightbulb-container {
   max-width: 50%;

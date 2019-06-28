@@ -58,7 +58,7 @@ label {
   width: 50px;
 }
 
-/*.inner-switch {
+.inner-switch {
   border: 3px solid #323232;
   border-bottom: 8px solid #323232;
   border-radius: 3px;

@@ -81,12 +81,12 @@ input[type=checkbox]:checked~label .outer-switch .inner-switch {
   background-image: linear-gradient(#e8e8e8, #ffffff);
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
